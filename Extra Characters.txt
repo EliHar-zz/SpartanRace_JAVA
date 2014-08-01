@@ -1,0 +1,29 @@
+2
+ELI
+1
+ADRIANA
+2
+5 3 c f
+6 2 w k
+3 6 w j
+1 2 w m
+4 2 c c
+1 5 c g
+6 6 w d
+4 5 w e
+2 3 c r
+5 6 w t
+2 2 c a
+4 3 c w
+3 6 w o
+2 1 w p
+3 6 w l
+1 1 c n
+4 3 c f
+5 4 w i
+6 5 w e
+3 2 c o
+5 4 c u
+5 5 w g
+3 6 c r
+6 1 w l
